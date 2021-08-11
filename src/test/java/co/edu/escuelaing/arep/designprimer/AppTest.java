@@ -1,4 +1,4 @@
-package edu.escuelaing.arem;
+package co.edu.escuelaing.arep.designprimer;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
